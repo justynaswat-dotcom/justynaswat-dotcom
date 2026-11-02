@@ -1,16 +1,15 @@
-## Hi there 👋
+# Justyna Swat
 
-<!--
-**justynaswat-dotcom/justynaswat-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Systemic designer and founder of **TINYLABS — Hors Échelle**, a Paris studio working on territorial transitions: mobility, ecology, biodiversity, narrative. I also teach at ENSCI – Les Ateliers.
 
-Here are some ideas to get you started:
+*Design systémique et transformation territoriale — de l'individu au terroir.*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+- **[La Voie](https://la-voie.info)**: documentary series on mobility transitions (TINYLABS × ADEME) · [repo](https://github.com/justynaswat-dotcom/la-voie-info)
+- **[Carte Cohorte 2026](https://github.com/justynaswat-dotcom/carte-cohorte)**: map of the 38 territorial projects of ADEME's Extrême Défi Textile Responsable
+- **[tinylabs.one](https://tinylabs.one)**: studio website · [repo](https://github.com/justynaswat-dotcom/tinylabs-website)
+
+## Contact
+
+[tinylabs.one](https://tinylabs.one)
